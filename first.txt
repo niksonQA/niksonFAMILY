@@ -1,7 +1,5 @@
 2323232qae
 new branch line
-<<<<<<< HEAD
 updateавыыавыававыаdDSS
-=======
 updateавыыавыававыа
 >>>>>>> e2a0ca99c33ec0952bf5e1b90474cfb472f845cd
